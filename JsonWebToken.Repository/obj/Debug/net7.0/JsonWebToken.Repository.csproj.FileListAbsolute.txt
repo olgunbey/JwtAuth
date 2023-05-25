@@ -1,0 +1,17 @@
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\bin\Debug\net7.0\JsonWebToken.Repository.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\bin\Debug\net7.0\JsonWebToken.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\bin\Debug\net7.0\JsonWebToken.Repository.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\bin\Debug\net7.0\JsonWebToken.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\bin\Debug\net7.0\JsonWebToken.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.csproj.CopyComplete
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\refint\JsonWebToken.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\ref\JsonWebToken.Repository.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\bin\Debug\net7.0\JsonWebToken.Repository.runtimeconfig.json
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Repository\obj\Debug\net7.0\JsonWebToken.Repository.genruntimeconfig.cache

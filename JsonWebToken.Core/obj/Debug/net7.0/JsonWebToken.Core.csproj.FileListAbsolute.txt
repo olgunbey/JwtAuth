@@ -1,0 +1,12 @@
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\bin\Debug\net7.0\JsonWebToken.Core.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\bin\Debug\net7.0\JsonWebToken.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\bin\Debug\net7.0\JsonWebToken.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\refint\JsonWebToken.Core.dll
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\JsonWebToken.Core.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Çalışmalar\JsonWebToken\JsonWebToken.Core\obj\Debug\net7.0\ref\JsonWebToken.Core.dll

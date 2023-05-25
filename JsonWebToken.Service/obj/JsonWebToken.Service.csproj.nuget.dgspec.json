@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Service\\JsonWebToken.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj",
+        "projectName": "JsonWebToken.Core",
+        "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj",
+        "packagesPath": "C:\\Users\\olgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Repository\\JsonWebToken.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Repository\\JsonWebToken.Repository.csproj",
+        "projectName": "JsonWebToken.Repository",
+        "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Repository\\JsonWebToken.Repository.csproj",
+        "packagesPath": "C:\\Users\\olgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj": {
+                "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Service\\JsonWebToken.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Service\\JsonWebToken.Service.csproj",
+        "projectName": "JsonWebToken.Service",
+        "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Service\\JsonWebToken.Service.csproj",
+        "packagesPath": "C:\\Users\\olgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj": {
+                "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Core\\JsonWebToken.Core.csproj"
+              },
+              "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Repository\\JsonWebToken.Repository.csproj": {
+                "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\JsonWebToken.Repository\\JsonWebToken.Repository.csproj"
+              },
+              "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\SharedLibrary\\SharedLibrary.csproj": {
+                "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\SharedLibrary\\SharedLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNet.Providers.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\SharedLibrary\\SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\SharedLibrary\\SharedLibrary.csproj",
+        "projectName": "SharedLibrary",
+        "projectPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\SharedLibrary\\SharedLibrary.csproj",
+        "packagesPath": "C:\\Users\\olgun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olgun\\OneDrive\\Masaüstü\\Çalışmalar\\JsonWebToken\\SharedLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olgun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
