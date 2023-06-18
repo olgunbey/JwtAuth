@@ -91,7 +91,7 @@ namespace JsonWebToken.Service.Services
         public ClientTokenDto CreateTokenByClient(Client client)
         {
             var accessTokenExpiration = DateTime.Now.AddMinutes(15);
-            var securityKey = SignService.GetSimetrikKey("mysecretkeymysecretkeymysecretkeymysecretkeymysecretkey");
+            var securityKey = SignService.GetSimetrikKey("mysecretkeymysecretkeymysecretkeymysecretkeymysecretkey"); //mysecretmysecretmysecretmysecret ???
 
             SigningCredentials signingCredentials = new(securityKey, SecurityAlgorithms.HmacSha256Signature);
             JwtSecurityToken jwtSecurityToken = new(

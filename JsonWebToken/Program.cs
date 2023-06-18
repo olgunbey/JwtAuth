@@ -35,7 +35,8 @@ builder.Services.Configure<List<Client>>(builder.Configuration.GetSection("Clien
 
 builder.Services.AddDbContext<AppDbContext>(x => x.UseSqlServer("Data Source=OLGUNPC\\SQLEXPRESS; Initial Catalog=JwtWeb;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False"));
 builder.Services.AddIdentity<UserApp, UserRole>(x => { x.Password.RequireNonAlphanumeric = false; }).AddEntityFrameworkStores<AppDbContext>();
-builder.Services.AuthenticationExtension(tokenOption!);
+//builder.Services.AuthenticationExtension(tokenOption!);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -46,7 +47,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

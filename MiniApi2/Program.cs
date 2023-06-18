@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var token = builder.Configuration.GetSection("TokenOptions").Get<CustomTokenOption>();
+CustomTokenOption? token = builder.Configuration.GetSection("TokenOptions").Get<CustomTokenOption>();
 builder.Services.AuthenticationExtension(token!);
 
 var app = builder.Build();

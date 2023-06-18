@@ -23,6 +23,7 @@ namespace SharedLibrary.Configurations
                 opts.TokenValidationParameters = new()
                 {
                     ValidIssuer = tokenOption.Issuer,
+                    //ValidAudiences=tokenOption.Audience,
                     ValidAudience = tokenOption.Audience[0],
                     IssuerSigningKey = SignService.GetSimetrikKey(tokenOption.SecurityKey),
 
